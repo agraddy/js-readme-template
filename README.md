@@ -1,4 +1,4 @@
-# js-readme-template
+# [module name]
 
 [A brief description.]
 
